@@ -40,6 +40,6 @@
     "magnific-popup": "^1.1.0",
     "popper.js": "^1.15.0",
     "select2": "^4.0.10",
-    "select2-theme-bootstrap4": "^1.0.0"
+    "select2-theme-bootstrap4": "^1.0.1"
   }
 }
